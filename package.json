@@ -1,0 +1,6 @@
+{
+  "name": "the-world-today-20261125",
+  "private": true,
+  "type": "module",
+  "engines": {"node": ">=22.18 <23"}
+}
